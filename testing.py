@@ -1,1 +1,1 @@
-print ("Hi my devops testing ok But 1st class demo ")
+print ("Hi my devops testing demo pratical ")
